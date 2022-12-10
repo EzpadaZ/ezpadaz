@@ -13,7 +13,7 @@
    - Intermediate JavaScript
    - Intermediate C#
 - 💬 Reach me [@EzpadaZ](https://twitter.com/ezpadaz) or my LinkedIn [Jorge Espadas](https://www.linkedin.com/in/jorge-espadas-5ba841135/)
-- ⚠️ While this is my public repo have in mind that i do not update it quite often due to work, for the public/archived repos, they were made a few years ago, so support/refactors/documentations for them are not available.
+- ⚠️ Have in mind that i no longer have public repositories, the ones that are public are old school projects or tests for more serious things that are private.
 
 <!--
 **JorgeEspadas/jorgeespadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
