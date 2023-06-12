@@ -1,6 +1,6 @@
 # Welcome to my personal Github Repo 👋
 
-### I'm a Mexican Software Engineer currently working [@albomx](https://twitter.com/albomx) as a Fullstack Developer, Always Interested on Learning new things.
+### I'm a Mexican Software Engineer currently working for a fintech as a Fullstack Developer, Always Interested on Learning new things.
 
 - 👨‍💻 Currently working in iOS/Android projects with [Flutter](https://github.com/flutter/flutter)
 - 🤔 Highly interested in C++ and Videogame development with SDL2/Unity with C# and Mobile Development with Flutter/Native Android
