@@ -3,6 +3,7 @@
 ### I'm a Mexican Software Engineer currently working for a fintech as a Fullstack Developer, Always Interested on Learning new things.
 
 - 👨‍💻 Currently working in iOS/Android projects with [Flutter](https://github.com/flutter/flutter)
+- 👨‍💻 Also working making plugins for Minecraft Spigot Servers as a Hobby.
 - 🤔 Highly interested in C++ and Videogame development with SDL2/Unity with C# and Mobile Development with Flutter/Native Android
 - ⚙️ Programming Languages:
    - Beginner C++
