@@ -4,7 +4,7 @@
 
 - 👨‍💻 Currently working in iOS/Android projects with [Flutter](https://github.com/flutter/flutter)
 - 👨‍💻 Also working making plugins for Minecraft Servers as a Hobby.
-- 🤔 Highly interested in C++ and Videogame development with SDL2/Unity with C# and Mobile Development with Flutter/Native Android
+- 🤔 Highly interested in learning more stuff with Java or Mobile Development.
 - ⚙️ Programming Languages:
    - Beginner C++
    - Beginner Kotlin
@@ -14,7 +14,6 @@
    - Intermediate JavaScript
    - Intermediate C#
 - 💬 Reach me [@EzpadaZ](https://twitter.com/ezpadaz) or my LinkedIn [Jorge Espadas](https://www.linkedin.com/in/jorge-espadas-5ba841135/)
-- ⚠️ Have in mind that i no longer have public repositories, the ones that are public are old school projects or tests for more serious things that are private.
 
 <!--
 **JorgeEspadas/jorgeespadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
